@@ -1,0 +1,153 @@
+.css-y3u5xm {
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 33px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 8px 0px, rgba(0, 0, 0, 0.08) 0px 0px 1px 0px;
+    margin-bottom: 2%;
+}
+
+.time-slots {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.drop {
+    width: 24%;
+}
+
+.css-1ka1u4r {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-color: rgb(224, 224, 224);
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    justify-content: center;
+    letter-spacing: 0.5px;
+    min-height: 55px;
+    margin-top: 2%;
+}
+
+.css-f6ww1q {
+    color: rgb(14, 14, 14);
+    font-weight: 600;
+    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.css-1ce2i1u {
+    line-height: 18px;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 22px;
+    margin: 0px;
+    color: rgb(14, 14, 14);
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+}
+
+.css-yi2nna {
+    border-width: 0px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    justify-content: center;
+    letter-spacing: 0.5px;
+    line-height: 11px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: transparent;
+    padding: 0px;
+    min-height: 20px;
+    text-overflow: ellipsis;
+    font-size: 11px !important;
+}
+
+.css-yi2nna2 {
+    border-width: 0px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    justify-content: center;
+    letter-spacing: 0.5px;
+    line-height: 11px;
+    /* text-decoration: underline; */
+    text-transform: uppercase;
+    background-color: transparent;
+    padding: 0px;
+    min-height: 20px;
+    text-overflow: ellipsis;
+    font-size: 11px !important;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 200px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.show {
+    display: block;
+}
+.header_top_area {
+        background:black;
+    }
+    .header_social li {
+        display: inline-block;
+        margin-left: 10px;
+    }
+.linka a{
+font-size: 13px;
+font-family: "Open Sans", sans-serif;
+color: #e8e8e8;
+line-height: 40px;
+margin-right: 5%;
+}
+@media (min-width: 768px) {
+.linka a {
+    margin-right: 3%;
+}
+}
+/*form css*/
+.css-y3u5xm {
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 33px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 8px 0px, rgba(0, 0, 0, 0.08) 0px 0px 1px 0px;
+    margin-bottom: 2%;
+}
+.linka a{
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    color: #e8e8e8;
+    line-height: 40px;
+    margin-right: 5%;
+  }
+  @media (min-width: 768px) {
+    .linka a {
+        margin-right: 3%;
+    }
+}
